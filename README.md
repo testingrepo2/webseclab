@@ -17,7 +17,7 @@ Set GOPATH environment variable as described in [http://golang.org/doc/code.html
 ```
 $GOPATH/bin/webseclab [-http=:8080]
 ```
-or simply ```webseclab``` if $GOPATH/bin is in your PATH.
+or simply ```webseclab``` if $GOPATH/bin is in your PATH. 
 
 Run webseclab -help to view the options.  
 
